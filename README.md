@@ -1,2 +1,2 @@
 ![Hello, I'm Justin!](Banner.png)
-![Hi](BannerInfo.png)
+![Hi](Banner Info.png)
